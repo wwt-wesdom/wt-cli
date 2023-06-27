@@ -1,6 +1,6 @@
 {
   "name": "@wt-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "wangwentao <123456Wwt>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@wt-cli/utils": "^1.0.0"
+    "@wt-cli/utils": "^1.0.1"
   }
 }
