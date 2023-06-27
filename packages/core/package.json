@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@wt-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "553d93bee6d9caa1f0eda86602e505bc58cd6c3b"
 }
