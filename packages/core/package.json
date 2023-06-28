@@ -1,6 +1,6 @@
 {
-  "name": "@wt-cli/core",
-  "version": "1.0.2",
+  "name": "@wesdom-cli/core",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "wangwentao <123456Wwt>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@wt-cli/utils": "^1.0.2"
+    "@wesdom-cli/utils": "^1.0.0"
   },
-  "gitHead": "553d93bee6d9caa1f0eda86602e505bc58cd6c3b"
+  "gitHead": "3d384515d07fde9a9dc196804605dae645075f4d"
 }
