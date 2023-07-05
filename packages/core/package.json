@@ -22,7 +22,7 @@
   "dependencies": {
     "@wesdom-cli/utils": "^1.0.3"
   },
-  "gitHead": "ce0cd577a4cac0ab0d224935186f4f81804506f1",
+  "gitHead": "119130b097d950aba94c846387dfbf2d8a296e30",
   "publishConfig": {
     "access": "public"
   }
