@@ -1,6 +1,6 @@
 {
   "name": "@wesdom-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "wangwentao <123456Wwt>",
   "homepage": "",
@@ -22,5 +22,8 @@
   "dependencies": {
     "@wesdom-cli/utils": "^1.0.3"
   },
-  "gitHead": "1099f4bccad8493a8f4ea4a1d4b0d2f30209dfd4"
+  "gitHead": "1099f4bccad8493a8f4ea4a1d4b0d2f30209dfd4",
+  "publishConfig": {
+    "access": "public"
+  }
 }
