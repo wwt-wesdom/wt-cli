@@ -19,10 +19,8 @@
   "scripts": {
     "test": "echo \"Run testing from core\""
   },
-  "dependencies": {
-    "@wesdom-cli/utils": "^1.0.2"
-  },
-  "gitHead": "6fec05f2653fc85b8ef403561c998787685d72e5",
+  "dependencies": {},
+  "gitHead": "384b1b666f0740bfcac70622d98098b270bf731a",
   "publishConfig": {
     "access": "public"
   }
