@@ -1,0 +1,32 @@
+{
+  "name": "@wesdom-cli/core",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "wangwentao <123456Wwt>",
+  "homepage": "https://github.com/wwt-wesdom/wt-cli#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwt-wesdom/wt-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wwt-wesdom/wt-cli/issues"
+  },
+  "dependencies": {
+    "@wesdom-cli/utils": "^1.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
