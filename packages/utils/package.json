@@ -1,6 +1,6 @@
 {
   "name": "@wesdom-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "wangwentao <123456Wwt>",
   "homepage": "",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "7a30808e9d9dd3d065b01392a07654faee6dfb5b",
+  "gitHead": "96fc7e7695297ea6a4ca9d3e66d92165d894bd13",
   "publishConfig": {
     "access": "public"
   }
