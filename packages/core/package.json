@@ -23,11 +23,9 @@
   "bugs": {
     "url": "https://github.com/wwt-wesdom/wt-cli/issues"
   },
-  "dependencies": {
-    "@wesdom-cli/utils": "^1.0.1"
-  },
+  "dependencies": {},
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "a77d2c46fb9dd238f318030c20e948149d24837a"
+  "gitHead": "afb7fa9eaec5465fbaff77e9c095c09cc792a397"
 }
