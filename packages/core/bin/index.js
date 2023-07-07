@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello wesdom-cli hahahahh')
+console.log('hello wesdom-cli hahahahhh')
