@@ -1,6 +1,6 @@
 {
   "name": "wesdom-cli",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "wesdom-cli ",
   "main": "index.js",
   "scripts": {
