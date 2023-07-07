@@ -1,6 +1,6 @@
 {
   "name": "@wesdom-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "wangwentao <123456Wwt>",
   "homepage": "",
@@ -19,7 +19,6 @@
   "scripts": {
     "test": "echo \"Run testing from core\""
   },
-  "dependencies": {},
   "gitHead": "384b1b666f0740bfcac70622d98098b270bf731a",
   "publishConfig": {
     "access": "public"
